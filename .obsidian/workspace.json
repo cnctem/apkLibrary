@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "f7fd958bee42d25e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/音乐.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "音乐"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/音乐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "音乐 的反向链接列表"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "docs/音乐.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "音乐 的大纲"
             }
           }
         ],
@@ -169,8 +184,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "70d757cf01883b35",
+  "active": "f7fd958bee42d25e",
   "lastOpenFiles": [
-    "apkLibrary1"
+    "apks/Salt Player/糖醋音乐-橘子5.apk",
+    "apks/Salt Player/糖醋音乐适配鸿蒙4.2_Spotify_8.16.0.apk",
+    "apks/Salt Player/青盐云听_1.0.0-dev17.apk",
+    "apks/Salt Player/椒盐音乐7.8养老.apk",
+    "apks/Salt Player/椒盐音乐 Lite.apk",
+    "apks/Salt Player/Salt Player_10.2.2.apk",
+    "apks/Salt Player/Salt Player_10.2.1-hmos.apk",
+    "apks/Salt Player",
+    "README.md",
+    "docs/音乐.md",
+    "apks/poweramp/poweramp解锁版.apk",
+    "apks/poweramp/Melodi.apk",
+    "apks/poweramp/Luminous Black.apk"
   ]
 }
